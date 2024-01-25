@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Beginning.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Beginning.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BeginningEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Beginning">
+      <UniqueIdentifier>{688890B0-2294-3AAD-B9AB-6C3F34FC8BC7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Beginning\Beginning.Build.cs">
+      <Filter>Source\Beginning</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Beginning\Beginning.cpp">
+      <Filter>Source\Beginning</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Beginning\Beginning.h">
+      <Filter>Source\Beginning</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Beginning\Bird.cpp">
+      <Filter>Source\Beginning</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Beginning\Bird.h">
+      <Filter>Source\Beginning</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Beginning\Squirrel.cpp">
+      <Filter>Source\Beginning</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Beginning\Squirrel.h">
+      <Filter>Source\Beginning</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

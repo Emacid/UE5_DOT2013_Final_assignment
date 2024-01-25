@@ -1,0 +1,8 @@
+Bu yaptığım oyun için PaperZD eklentisinin indirilmesi gerekmektedir.
+
+Eğer indirilmezse oyun düzgün çalışmaz!
+
+Ayrıca Beginning.sln dosyasını IDE ile açtıktan sonra ctrl + F5 yapıp oyunu çalıştırmak gerekmektedir!
+
+
+Oyun ok tuşları ve "Z" "X" "C" tuşlarıyla oynanmaktadır.
